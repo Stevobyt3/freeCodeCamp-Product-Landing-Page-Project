@@ -7,5 +7,42 @@
     <link rel="styles.css" href="styles.css">
   </head>
   <body>
+    <nav id="nav-bar">
+      <a class="nav-link" href="#specs">Key Specifications</a>
+      <a class="nav-link" href="#tech">Technology</a>
+      <a class="nav-link" href="#products">Product Range</a>    
+    </nav>
+    <h1>Sequencd</h1>
+      <h2>The NGS Company for the People</h2> 
+  </header>
+  <section id="specs">
+    <h3>Key Specifications</h3>
+      <ul>
+        <li>1Tb/day throughput</li>
+        <li>USD 100 per Human Whole Genome</li>
+        <li>Benchtop-only</li>  
+  </section>
+  <section id="tech">
+    <h3>Innovative Technology</h3>
+    <p>Sequencing-by-building is an innovative technology allowing the instrument to construct fragments of DNA based on the original sequence without needing to circularise the DNA. Key innovations in optics, computing power, lasers, coatings and microfluidics have opened up endless possibilities for the future of Genomics.</p>        
+    <iframe width="320" height="240" src="https://www.youtube.com/embed/mI0Fo9kaWqo" id="video" title="Next Generation Sequencing 1: Overview - Eric Chow (UCSF)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </section>
+  <section id="products">
+    <h3 class="prange">Product Range</h3>
+    <div class="smallstring">
+      <h4 class="ssh3">Small String Sequencer</h4>
+    </div>
+    <div class="midstring">
+      <h4 class="msh3">Mid String Sequencer</h4>
+    </div>
+    <div class="bigstring">
+      <h4 class="bsh3">Big String Sequencer</h4>
+    </div>
+    <div class="emailform">
+      <form id="form" method="post">
+        <label for="email">Enter Your Email Address for further Information</label>
+        <input type="email" id="email" name="email">
+        <input type="submit" value="Submit" formaction="https://www.freecodecamp.com/email-submit">
+  </section>
   </body>
 </html>
