@@ -9,8 +9,10 @@
     letter-spacing: 1.5px;
     gap: 4px;
     font-weight: bold;
-    position: static;
+    position: fixed;
     top: 0;
+    background-color: #f5f7fa;
+    width: 100%; 
   }
   
   #header-img {
@@ -27,7 +29,7 @@
     justify-content: center;
   }
   
-  .products {
+  #products {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
   }
