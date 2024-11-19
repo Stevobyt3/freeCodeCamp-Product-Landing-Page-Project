@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <link rel="stylesheet" href="styles.css">
+  <main id="main">
+    <title id="title">Chris Cornell</title>
+    <h1>Chris Cornell</h1>
+      <p id="sub-heading">A Rock Legend</p>
+    <div id="img-div">
+      <img src="https://www.rockarchive.com/media/4279/soundgarden-sound001jake.jpg?width=800&height=1018&mode=stretch&overlay=watermark.png&overlay.size=230,20&overlay.position=0,998" id="image" >
+      <figcaption id="img-caption">A portrait photo of Chris Cornell taken at the Toronto International Film Festival in September 2011 after recording a song for the soundtrack of the movie "Machine Gun Preacher".</figcaption>
+      <section id="tribute-info">
+        <h2>A synopsis of Chris Cornell's life:</h2>
+        <ul>
+          <li id="timeline"><strong>1964</strong> - Born Christopher John Boyle in Seattle, Washington, US</li>
+          <li id="timeline"><strong>1984</strong> - Soundgarden was formed</li>
+          <li id="timeline"><strong>1987</strong> - Released first EP, Screaming Life</li>
+          <li id="timeline"><strong>1988</strong> - Released debut album, Ultramega Ok</li>
+          <li id="timeline"><strong>1994</strong> - Soundgarden debuted at No. 1 on the Billboard 200 with Superunknown</li>
+          <li id="timeline"><strong>1997</strong> - Soundgarden disbanded over creative differences</li>
+          <li id="timeline"><strong>2010</strong> - Soundgarden reunited for several tours</li>
+          <li id="timeline"><strong>2011</strong> - The band toured North America</li>
+          <li id="timeline"><strong>2012</strong> - Final album, King Animal was released</li>
+          <li id="timeline"><strong>2017</strong> - Death in Detroit, Michigan, US</li>
+        <p id="tribute"><i> "He stepped to the microphone and sang the song and I couldn't believe it. It didn't just sound good. It didn't sound great. It sounded transcendent. And ... when there is an irreplaceable chemistry from the first moment, you can't deny it." - Tom Morello</i><p>
+        <p id="link">Read more about Chris Cornell's prolific rock career <a id="tribute-link" target="_blank" href="https://en.wikipedia.org/wiki/Chris_Cornell">here</a>
